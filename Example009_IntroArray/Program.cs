@@ -5,7 +5,7 @@
     if (arg3 > result) result = arg3;
     return result;
 }
-Индексы          0   1   2   3   4   5   6   7   8
+//Индексы        0   1   2   3   4   5   6   7   8
 int[] array = { 15, 21, 39, 12, 23, 33, 13, 23, 333 };
 
 int result = Max(
